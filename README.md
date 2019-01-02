@@ -17,6 +17,7 @@ this one will just create a .apk file with and the handler
 # automsf2.sh
 this one will create a .apk file and it copy the file to the website 
 so you can make some one to download the .apk
+run setup.sh for installing apache server
 
 # automsf3.sh
 this one is similar to the second one but the main difference is that this 
