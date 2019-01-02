@@ -8,3 +8,4 @@ else
   apt install apache2
   /etc/init.d/apache2 start
   rm /var/www/html/*
+fi
