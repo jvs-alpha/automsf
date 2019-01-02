@@ -8,7 +8,7 @@ automation of msfpayload for android
 
 # basics
 the metaspoit framework is used to make payloads and exploits for many devices 
-so i have writen a script that will make a .apk file when you install it on a victim's phone
+so i have written a script that will make a .apk file when you install it on a victim's phone
 it will create a reverse shell to your computer
 
 # automsf.sh
