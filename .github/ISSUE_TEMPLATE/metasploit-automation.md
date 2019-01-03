@@ -1,9 +1,9 @@
 ---
 name: Metasploit automation
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: metasploit automation
+labels: metasploit automation
+assignees: metasploit automation
 
 ---
 
