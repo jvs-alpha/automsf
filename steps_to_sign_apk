@@ -1,0 +1,6 @@
+keytool -genkey -V -keystore {the directory path with .key ext} -alias {name} -keyalg RSA -keysize 2048 -validity 1000
+# Then enter a passwd
+# and enter credentials
+jarsigner -vserbose -sigalg SHA1withRSA -digestalg SHA1 -keystore {the directory of the key .keystore ext} {apk path} {name}
+
+zipalign -v 4 {apk path} {signed apk path}
